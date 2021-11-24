@@ -1,0 +1,5 @@
+Code in Python,High
+1Hr of CrossFit,High
+Walk the Dog,Medium
+Clean the house,Low
+Milk,Medium
